@@ -1,0 +1,23 @@
+#startpage {
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+	border-color: black;
+	margin: auto;
+    width: 60%;
+    margin-top: 50px;
+}
+#timer{
+	position:absolute; 
+	top:15px; 
+	left:10px;
+}
+#canvas-wrap { 
+	position:relative
+}
+#score{
+	position:absolute; 
+	top:15px; 
+	left:300px;
+}
